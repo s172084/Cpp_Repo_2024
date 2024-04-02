@@ -1,5 +1,7 @@
 ---
 output: github_document
+title: "The Square Matrices in C++"
+date: "April 2024"
 ---
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
@@ -11,7 +13,6 @@ knitr::opts_chunk$set(
 )
 ```
 
-# The Square Matrices
 
 <!-- badges: start -->
 <!-- badges: end -->
