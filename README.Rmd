@@ -1,7 +1,8 @@
 ---
 output: github_document
 title: "The Square Matrices in C++"
-date: "April 2024"
+author: "**Miss Oriade Latifah Simpson**\n"
+date: "**2 April 2024**"
 ---
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
@@ -13,7 +14,6 @@ knitr::opts_chunk$set(
 )
 ```
 
-
 <!-- badges: start -->
 <!-- badges: end -->
 
@@ -22,7 +22,6 @@ The goal of this Github Repository is to demonstrate my skills in performing com
 
 ## The Header
 The Header contains the prototypes for all of the C++ functions
-
 ```{r the_header, eval=FALSE}
 #include <iostream>
 #include <vector>

@@ -1,6 +1,8 @@
 The Square Matrices in C++
 ================
-April 2024
+**Miss Oriade Latifah Simpson**
+
+**2 April 2024**
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 <!-- badges: start -->
